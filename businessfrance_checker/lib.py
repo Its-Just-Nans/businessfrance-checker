@@ -28,7 +28,7 @@ def try_request(func, *args, **kwargs):
             res = s.post(*args, **kwargs, timeout=1)
     except Exception as _e:
         print("Error during request")
-        # print(_e)
+        print(_e)
         exit(1)
     return res
 
