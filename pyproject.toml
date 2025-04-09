@@ -1,0 +1,26 @@
+# pyproject.toml
+
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "businessfrance-checker"
+version = "1.0.0"
+description = "A simple tool to check the businessfrance website"
+readme = "README.md"
+authors = [{ name = "n4n5", email = "its.just.n4n5@gmail.com" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["html", "index"]
+requires-python = ">=3.6"
+
+
+[project.urls]
+Homepage = "https://github.com/its-just-nans/businessfrance-checker"
+"Bug Tracker" = "https://github.com/its-just-nans/businessfrance-checker/issues"
