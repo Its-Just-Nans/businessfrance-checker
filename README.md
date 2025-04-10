@@ -4,7 +4,7 @@
 - <https://pypistats.org/packages/businessfrance-checker> - pypi stats
 - <https://github.com/Its-Just-Nans/businessfrance-checker> - repo
 
-Scrap PhD offers from [businessfrance website](https://mon-vie-via.businessfrance.fr/) and send them to a discord channel.
+Scrap VIE offers from [businessfrance website](https://mon-vie-via.businessfrance.fr/) and send them to a discord channel.
 
 The discord server: <https://discord.gg/AaMyJbYh58>
 
