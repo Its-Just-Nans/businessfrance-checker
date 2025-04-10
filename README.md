@@ -6,7 +6,7 @@
 
 Scrap PhD offers from [businessfrance website](https://mon-vie-via.businessfrance.fr/) and send them to a discord channel.
 
-The discord server: <https://discord.gg/NjnyzvMKhr>
+The discord server: <https://discord.gg/AaMyJbYh58>
 
 ## Usage
 
